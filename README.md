@@ -10,7 +10,6 @@ I'm a FrontEnd developer with knowledge in JavaScript and control applications s
 as well with a good level of English and currently learning React.
 I'm passionate about the world of tech and I like to keep in touch with new tools and diverse technology to continue growing in the area.
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+- 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love listen to music 🎵, explore nature outdoors 🌴 and spend time with my family.
