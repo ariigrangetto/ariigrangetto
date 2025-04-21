@@ -6,8 +6,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a FrontEnd developer from Argentina with knowledge in JavaScript, Tailwind CSS and control applications such as Git and GitHub,<br>
-as well with a good level of English and currently learning React and database with SQL. I'm passionate about the world of tech, solving problems and I like to keep in touch with new tools and diverse technology to continue growing in the area.
+I'm a FrontEnd developer from Argentina with knowledge in JavaScript, React, Tailwind CSS and control applications such as Git and GitHub,<br>
+as well with a good level of English and currently learning database with SQL. I'm passionate about the world of tech, solving problems, and constantly improving myself. I like to keep in touch with new tools and diverse technology to continue growing in the area.
 
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 - 👯 I’m looking forward to collaborate on open source projects.
