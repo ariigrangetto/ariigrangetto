@@ -4,11 +4,9 @@
 
 <img align="right" alt="GIF" margin-left="20px" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a FrontEnd developer from Argentina with knowledge in JavaScript, React, Tailwind CSS and control applications such as Git and GitHub,
+I'm Arianna, a FrontEnd developer from Argentina with knowledge in JavaScript, React, Tailwind CSS and control applications such as Git and GitHub,
 as well with a good level of English and currently learning database with SQL. I'm passionate about the world of tech, solving problems, and constantly improving myself. I like to keep in touch with new tools and diverse technology to continue growing in the area.
 
-- 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love listen to music 🎵, explore nature outdoors 🌴 and spend time with my family.
