@@ -5,8 +5,7 @@
 <img align="right" alt="GIF" margin-left="20px" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-I'm Arianna, a FrontEnd developer from Argentina with knowledge in JavaScript, React, Tailwind CSS and control applications such as Git and GitHub,
-as well with a good level of English and currently learning database with SQL. I'm passionate about the world of tech, solving problems, and constantly improving myself. I like to keep in touch with new tools and diverse technology to continue growing in the area.
+<br>
+<br>
 
-- I’m looking forward to collaborate on open source projects.
-- Outside tech, I love listen to music 🎵, explore nature outdoors 🌴 and spend time with my family.
+Frontend developer in continuous growth, focused on writing clean code and building functional, accessible interfaces. My biggest motivation is learning—improving my skills and exploring new technologies. I truly believe that curiosity and consistency are key pillars in this field. It’s not just about writing code; it’s about growing and creating.
