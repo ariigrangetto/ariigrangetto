@@ -4,6 +4,6 @@
 
 <img align="right" alt="GIF" margin-left="20px" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Frontend developer in continuous growth, focused on writing clean code and building functional, accessible interfaces. My biggest motivation is learning, improving my skills and exploring new technologies. I truly believe that curiosity and consistency are key pillars in this field. It’s not just about writing code; it's about evolving and creating meaningful experiences.
+Frontend developer focused on writing clean code and building functional, accessible interfaces. My biggest motivation is learning, improving my skills and exploring new technologies. I truly believe that curiosity and consistency are key pillars in this field. It’s not just about writing code; it's about evolving and creating meaningful experiences.
 
 
