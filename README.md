@@ -10,7 +10,7 @@
 
 <p aling="center"> I truly believe that curiosity and consistency are key pillars in this field. It’s not just about writing code, it's about evolving and creating meaningful experiences.</p>
 
-   `HTML` `CSS` `JavaScript` `Typescript` `React` `Tailwind` `Git` `Github` `MUI`
+   `HTML` `CSS` `JavaScript` `Typescript` `React` `Tailwind` `Git` `Github` `MUI` `TanStack Query` `Zustand`
 
 
 
