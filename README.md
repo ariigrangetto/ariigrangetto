@@ -8,8 +8,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 </div>
 
-<p aling="center"> I truly believe that curiosity and consistency are key pillars in this field. It’s not just about writing code, it's about evolving and creating meaningful experiences.</p>
-
    `HTML` `CSS` `JavaScript` `Typescript` `React` `Tailwind` `Git` `Github` `MUI` `TanStack Query` `Zustand`
 
 
