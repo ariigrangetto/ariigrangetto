@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 </div>
 
-   `HTML` `CSS` `JavaScript` `Typescript` `React` `Tailwind` `Git` `Github` `MUI` `TanStack Query` `Zustand` `Node.js` `Express` `Mongo.db` `MySql` 
+   `HTML` `CSS` `JavaScript` `Typescript` `React` `Tailwind` `Git` `Github` `MUI` `TanStack Query` `Zustand` `Node.js` `Express` `MongoDB` `MySql` 
 
 
 
